@@ -5,7 +5,7 @@ I am currently a Ph.D. candidate at Shanghai Jiao Tong University, working on 3D
 
 ![Yang You's github stats](https://github-readme-stats.vercel.app/api?username=qq456cvb&count_private=false&show_icons=true)
 
-#### My Publications
+### My Publications
 <!-- pub starts -->
 * [**CVPR2022**] CPPF: Towards Robust Category-Level 9D Pose Estimation in the Wild ([arxiv](https://arxiv.org/abs/2203.03089)/[code](https://github.com/qq456cvb/CPPF))
 * [**CVPR2022**] UKPGAN: Unsupervised KeyPoint GANeration ([arxiv](https://arxiv.org/abs/2011.11974)/[code](https://github.com/qq456cvb/UKPGAN))

@@ -33,7 +33,7 @@ if __name__ == '__main__':
         entries.append([title, conf, link_entries])
 
     mds = ''
-    for entry in entries[:5]:
+    for entry in entries[:10]:
         mds += '* '
         mds += '[**{}**] '.format(entry[1])
         mds += entry[0]

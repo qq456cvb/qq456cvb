@@ -17,11 +17,6 @@ if __name__ == '__main__':
     d = pq('https://qq456cvb.github.io/publications/')
     pub = d('div.archive')
     pub = pub('table:first')
-<<<<<<< HEAD
-    print(pub)
-=======
->>>>>>> 35a4599012d0330cfe9352e9c098ff1e8a85b091
-    print(pub.html())
     entries = []
     for item in pub('tr'):
         item = pq(pq(item)('tr')('td')[1])

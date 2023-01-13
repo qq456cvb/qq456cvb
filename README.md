@@ -3,7 +3,7 @@
 
 I am currently a Ph.D. candidate at Shanghai Jiao Tong University, working on 3D computer vision.
 
-![Yang You's github stats](https://github-readme-stats.vercel.app/api?username=qq456cvb&count_private=false&show_icons=true)
+![Yang You's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qq456cvb&count_private=false&show_icons=true)
 
 ### My Publications
 <!-- pub starts -->

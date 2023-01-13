@@ -19,3 +19,6 @@ I am currently a Ph.D. candidate at Shanghai Jiao Tong University, working on 3D
 * [**AAAI2020**] Pointwise Rotation-Invariant Network with Adaptive Sampling and 3D Spherical Voxel Convolution ([arxiv](https://arxiv.org/abs/1811.09361)/[code](https://github.com/qq456cvb/PRIN))
 * ... More publications on my [Website](https://qq456cvb.github.io/publications/)
 <!-- pub ends -->
+
+### Side Projects
+During my spare time, I also implemented lots of tools/algorithms/papers that I found interesting, all of which are open-source. You can find a brief listing and introduction of them at http://qq456cvb.github.io/sideprojects/.

@@ -1,7 +1,7 @@
 ## Hi there, this is Yang You👋
 ![GitHub followers](https://img.shields.io/github/followers/qq456cvb?style=social)![GitHub User's stars](https://img.shields.io/github/stars/qq456cvb?style=social)
 
-I am currently a Postdoc in Prof. Leonidas Guibas' lab, at Stanford. Interested in robot vision and embodied AI.
+I am currently a Postdoc in [Prof. Leonidas Guibas' lab](https://geometry.stanford.edu/), at Stanford. Interested in robot vision and embodied AI.
 
 ![Yang You's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qq456cvb&count_private=false&show_icons=true)
 

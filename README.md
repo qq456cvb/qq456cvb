@@ -7,8 +7,7 @@ I am currently a Postdoc in [Prof. Leonidas Guibas' lab](https://geometry.stanfo
 
 ### My Publications
 <!-- pub starts -->
-* [**Arxiv2022**] One-Shot General Object Localization ([arxiv](https://arxiv.org/abs/2211.13392)/[code](https://github.com/qq456cvb/OneLoc))
-* [**Arxiv2022**] Go Beyond Point Pairs: A General and Accurate Sim2Real Object Pose Voting Method with Efficient Online Synthetic Training ([arxiv](https://arxiv.org/abs/2211.13398)/[code](https://github.com/qq456cvb/BeyondPPF))
+* [**AAAI2023**] CRIN: Rotation-Invariant Point Cloud Analysis and Rotation Estimation via Centrifugal Reference Frame ([arxiv](arxiv.org/abs/2303.03101)
 * [**CVPR2022**] CPPF: Towards Robust Category-Level 9D Pose Estimation in the Wild ([arxiv](https://arxiv.org/abs/2203.03089)/[code](https://github.com/qq456cvb/CPPF))
 * [**CVPR2022**] UKPGAN: Unsupervised KeyPoint GANeration ([arxiv](https://arxiv.org/abs/2011.11974)/[code](https://github.com/qq456cvb/UKPGAN))
 * [**CVPR2022**] Canonical Voting: Towards Robust Oriented Bounding Box Detection in 3D Scenes ([arxiv](https://arxiv.org/abs/2011.12001)/[code](https://github.com/qq456cvb/CanonicalVoting))

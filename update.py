@@ -36,7 +36,7 @@ if __name__ == '__main__':
         mds += '[**{}**] '.format(entry[1])
         mds += entry[0]
         mds += ' ('
-        mds += '/'.join(['[{}]({})'.format(link[1], link[0]) for link in entry[2]])
+        mds += '/'.join(['[{}]({})'.format(link[1], ('https://qq456cvb.github.io' + link[0]) if link[0].startswith('/') else link[0]) for link in entry[2]])
         mds += ')\n'
     
     readme = root / "README.md"

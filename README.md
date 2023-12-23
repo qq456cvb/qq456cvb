@@ -8,6 +8,7 @@ I am currently a Postdoc in [Prof. Leonidas Guibas' lab](https://geometry.stanfo
 
 ### My Publications
 <!-- pub starts -->
+* [**Arxiv2023**] PACE: Pose Annotations in Cluttered Environments ([PDF](https://qq456cvb.github.io/files/pace.pdf)/[code](https://github.com/qq456cvb/PACE)/[Project Page](https://qq456cvb.github.io/projects/pace))
 * [**Arxiv2023**] Make a Donut: Language-Guided Hierarchical EMD-Space Planning for Zero-shot Deformable Object Manipulation ([arxiv](https://arxiv.org/abs/2311.02787)/[poster](https://qq456cvb.github.io/images/make_a_donut.pdf)/[Project Page](https://qq456cvb.github.io/projects/donut))
 * [**Arxiv2023**] SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation ([arxiv](https://arxiv.org/abs/2310.16838)/[Project Page](https://halowangqx.github.io/SparseDFF))
 * [**Arxiv2023**] Bridging the Gap between Human Motion and Action Semantics via Kinematic Phrases ([arxiv](https://arxiv.org/abs/2310.04189)/[Project Page](https://foruck.github.io/KP))
@@ -17,7 +18,6 @@ I am currently a Postdoc in [Prof. Leonidas Guibas' lab](https://geometry.stanfo
 * [**CVPR2022**] Canonical Voting: Towards Robust Oriented Bounding Box Detection in 3D Scenes ([arxiv](https://arxiv.org/abs/2011.12001)/[code](https://github.com/qq456cvb/CanonicalVoting)/[Project Page](https://qq456cvb.github.io/projects/canonical-voting))
 * [**TPAMI2021**] PRIN/SPRIN: On Extracting Point-wise Rotation Invariant Features ([arxiv](https://arxiv.org/abs/2102.12093)/[code](https://github.com/qq456cvb/SPRIN))
 * [**TPAMI2021**] Understanding Pixel-level 2D Image Semantics with 3D Keypoint Knowledge Engine ([arxiv](https://arxiv.org/abs/2111.10817))
-* [**CVPR2020**] KeypointNet: A Large-scale 3D Keypoint Dataset Aggregated from Numerous Human Annotations ([arxiv](https://arxiv.org/abs/2002.12687)/[video](https://www.youtube.com/watch?v=_xy8h1M8Ejs)/[code](https://github.com/qq456cvb/KeypointNet)/[Project Page](https://qq456cvb.github.io/keypointnet))
 * ... More publications on my [Website](https://qq456cvb.github.io/publications/)
 <!-- pub ends -->
 

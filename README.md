@@ -6,7 +6,7 @@ I am currently a Postdoc in [Prof. Leonidas Guibas' lab](https://geometry.stanfo
 
 ![Yang You's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qq456cvb&count_private=false&show_icons=true)
 
-### My Publications
+### My Papars
 <!-- pub starts -->
 * [**Arxiv2023**] PACE: Pose Annotations in Cluttered Environments ([PDF](https://qq456cvb.github.io/files/pace.pdf)/[code](https://github.com/qq456cvb/PACE)/[Project Page](https://qq456cvb.github.io/projects/pace))
 * [**Arxiv2023**] Make a Donut: Language-Guided Hierarchical EMD-Space Planning for Zero-shot Deformable Object Manipulation ([arxiv](https://arxiv.org/abs/2311.02787)/[poster](https://qq456cvb.github.io/images/make_a_donut.pdf)/[Project Page](https://qq456cvb.github.io/projects/donut))

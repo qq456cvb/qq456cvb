@@ -8,7 +8,7 @@ I am currently a Postdoc in [Prof. Leonidas Guibas' lab](https://geometry.stanfo
 
 ### My Papars
 <!-- pub starts -->
-* [**TPAMI2024**] CPPF++: Uncertainty-Aware Sim2Real Object Pose Estimation by Vote Aggregation ([arxiv](https://arxiv.org/abs/2211.13398)/[code](https://github.com/qq456cvb/CPPF2))
+* [**TPAMI2024**] CPPF++: Uncertainty-Aware Sim2Real Object Pose Estimation by Vote Aggregation ([arxiv](https://arxiv.org/abs/2211.13398)/[code](https://github.com/qq456cvb/CPPF2)/[Project Page](https://qq456cvb.github.io/projects/cppf++))
 * [**Arxiv2023**] PACE: Pose Annotations in Cluttered Environments ([arxiv](https://arxiv.org/abs/2312.15130)/[PDF](https://qq456cvb.github.io/files/pace.pdf)/[code](https://github.com/qq456cvb/PACE)/[Project Page](https://qq456cvb.github.io/projects/pace))
 * [**ICLR2024**] SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation ([arxiv](https://arxiv.org/abs/2310.16838)/[Project Page](https://halowangqx.github.io/SparseDFF))
 * [**Arxiv2023**] Make a Donut: Language-Guided Hierarchical EMD-Space Planning for Zero-shot Deformable Object Manipulation ([arxiv](https://arxiv.org/abs/2311.02787)/[poster](https://qq456cvb.github.io/images/make_a_donut.pdf)/[Project Page](https://qq456cvb.github.io/projects/donut))

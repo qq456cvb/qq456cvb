@@ -8,16 +8,16 @@ I am currently a Postdoc in [Prof. Leonidas Guibas' lab](https://geometry.stanfo
 
 ### My Papars
 <!-- pub starts -->
+* [**NeurIPS2024**] ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process ([arxiv](https://arxiv.org/abs/2401.08140)/[Project Page](https://provnerf.github.io/))
+* [**Arxiv2024**] Img2CAD: Reverse Engineering 3D CAD Models from Images through VLM-Assisted Conditional Factorization ([arxiv](https://arxiv.org/abs/2408.01437)/[Project Page](https://qq456cvb.github.io/projects/img2cad))
 * [**TPAMI2024**] CPPF++: Uncertainty-Aware Sim2Real Object Pose Estimation by Vote Aggregation ([arxiv](https://arxiv.org/abs/2211.13398)/[code](https://github.com/qq456cvb/CPPF2)/[Project Page](https://qq456cvb.github.io/projects/cppf++))
 * [**ECCV2024**] PACE: Pose Annotations in Cluttered Environments ([arxiv](https://arxiv.org/abs/2312.15130)/[PDF](https://qq456cvb.github.io/files/pace.pdf)/[code](https://github.com/qq456cvb/PACE)/[Project Page](https://qq456cvb.github.io/projects/pace))
 * [**IROS2024**] RPMArt: Towards Robust Perception and Manipulation for Articulated Objects ([arxiv](https://arxiv.org/abs/2403.16023)/[code](https://github.com/R-PMArt/rpmart)/[Project Page](https://r-pmart.github.io/))
 * [**ICLR2024**] SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation ([arxiv](https://arxiv.org/abs/2310.16838)/[Project Page](https://halowangqx.github.io/SparseDFF))
+* [**RA-L2025**] Make a Donut: Language-Guided Hierarchical EMD-Space Planning for Zero-shot Deformable Object Manipulation ([arxiv](https://arxiv.org/abs/2311.02787)/[code](#)/[poster](https://qq456cvb.github.io/images/make_a_donut.pdf)/[Project Page](https://qq456cvb.github.io/projects/donut))
 * [**ECCV2024**] Bridging the Gap between Human Motion and Action Semantics via Kinematic Phrases ([arxiv](https://arxiv.org/abs/2310.04189)/[Project Page](https://foruck.github.io/KP))
-* [**Arxiv2023**] Make a Donut: Language-Guided Hierarchical EMD-Space Planning for Zero-shot Deformable Object Manipulation ([arxiv](https://arxiv.org/abs/2311.02787)/[poster](https://qq456cvb.github.io/images/make_a_donut.pdf)/[Project Page](https://qq456cvb.github.io/projects/donut))
 * [**CVPR2022**] CPPF: Towards Robust Category-Level 9D Pose Estimation in the Wild ([arxiv](https://arxiv.org/abs/2203.03089)/[code](https://github.com/qq456cvb/CPPF)/[Project Page](https://qq456cvb.github.io/projects/cppf))
 * [**CVPR2022**] UKPGAN: Unsupervised KeyPoint GANeration ([arxiv](https://arxiv.org/abs/2011.11974)/[code](https://github.com/qq456cvb/UKPGAN)/[Project Page](https://qq456cvb.github.io/projects/ukpgan))
-* [**CVPR2022**] Canonical Voting: Towards Robust Oriented Bounding Box Detection in 3D Scenes ([arxiv](https://arxiv.org/abs/2011.12001)/[code](https://github.com/qq456cvb/CanonicalVoting)/[Project Page](https://qq456cvb.github.io/projects/canonical-voting))
-* [**TPAMI2021**] PRIN/SPRIN: On Extracting Point-wise Rotation Invariant Features ([arxiv](https://arxiv.org/abs/2102.12093)/[code](https://github.com/qq456cvb/SPRIN))
 * ... More publications on my [Website](https://qq456cvb.github.io/publications/)
 <!-- pub ends -->
 

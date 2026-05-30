@@ -4,7 +4,7 @@
 
 I am currently a Postdoc in [Prof. Leonidas Guibas' lab](https://geometry.stanford.edu/), at Stanford. Interested in robot vision and embodied AI.
 
-![Yang You's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qq456cvb&count_private=false&show_icons=true)
+![Yang You's github stats](https://github-stats-extended.vercel.app/api?username=qq456cvb)
 
 ### My Papars
 <!-- pub starts -->

@@ -22,7 +22,13 @@ if __name__ == '__main__':
         item = pq(pq(item)('tr')('td')[1])
         txt = item.text().split('\n')
         title = txt[0]
-        conf = txt[2].replace(', ', '')
+        conf_text = re.sub(r'\s+', ' ', txt[2]).strip()
+        m = re.match(r'^(.*),\s*((?:19|20)\d{2})$', conf_text)
+        if m:
+            venue, year = m.groups()
+            conf = venue if re.search(r'(?:^|\D){}$'.format(re.escape(year)), venue) else venue + year
+        else:
+            conf = conf_text.replace(', ', '')
         links = item('a')
         link_entries = []
         for link in links:

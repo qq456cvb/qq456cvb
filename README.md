@@ -8,16 +8,16 @@ I am currently a Postdoc in [Prof. Leonidas Guibas' lab](https://geometry.stanfo
 
 ### My Papars
 <!-- pub starts -->
-* [**SIGGRAPH Asia 20252025**] Img2CAD: Reverse Engineering 3D CAD Models from Images through VLM-Assisted Conditional Factorization ([arxiv](https://arxiv.org/abs/2408.01437)/[Project Page](https://qq456cvb.github.io/projects/img2cad))
+* [**ICRA2026**] DOT-Sim: Differentiable Optical Tactile Simulation with Precise Real-to-Sim Physical Calibration ([arxiv](https://arxiv.org/abs/2604.27367)/[Project Page]())
+* [**SIGGRAPH Asia2025**] Img2CAD: Reverse Engineering 3D CAD Models from Images through VLM-Assisted Conditional Factorization ([arxiv](https://arxiv.org/abs/2408.01437)/[code](https://github.com/qq456cvb/Img2CAD)/[Project Page](https://qq456cvb.github.io/projects/img2cad))
+* [**CoRL2025**] Robot Learning from Any Images ([arxiv](https://arxiv.org/abs/2509.22970)/[code](https://github.com/PointsCoder/OpenReal2Sim)/[Project Page](https://sihengz02.github.io/RoLA/))
+* [**CoRL2025**] ARCH: Hierarchical Hybrid Learning for Long-Horizon Contact-Rich Robotic Assembly ([arxiv](https://arxiv.org/abs/2409.16451)/[Project Page](https://long-horizon-assembly.github.io/))
 * [**ICCV2025**] AllTracker: Efficient Dense Point Tracking at High Resolution ([arxiv](https://arxiv.org/abs/2506.07310)/[code](https://github.com/aharley/alltracker)/[Project Page](https://alltracker.github.io/))
-* [**Arxiv2025**] Rodrigues Network for Learning Robot Actions ([arxiv](https://arxiv.org/abs/2506.02618)/[Project Page]())
+* [**ICLR2026**] Rodrigues Network for Learning Robot Actions ([arxiv](https://arxiv.org/abs/2506.02618)/[Project Page]())
 * [**ICLR2025**] Multiview Equivariance Improves 3D Correspondence Understanding with Minimal Feature Finetuning ([arxiv](https://arxiv.org/abs/2411.19458)/[code](https://github.com/qq456cvb/3DCorrEnhance)/[Project Page](https://qq456cvb.github.io/3DCorrEnhance))
 * [**NeurIPS2024**] ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process ([arxiv](https://arxiv.org/abs/2401.08140)/[Project Page](https://provnerf.github.io/))
 * [**TPAMI2024**] CPPF++: Uncertainty-Aware Sim2Real Object Pose Estimation by Vote Aggregation ([arxiv](https://arxiv.org/abs/2211.13398)/[code](https://github.com/qq456cvb/CPPF2)/[Project Page](https://qq456cvb.github.io/projects/cppf++))
 * [**ECCV2024**] PACE: Pose Annotations in Cluttered Environments ([arxiv](https://arxiv.org/abs/2312.15130)/[supplementary](https://qq456cvb.github.io/files/pace_supp.pdf)/[code](https://github.com/qq456cvb/PACE)/[Project Page](https://qq456cvb.github.io/projects/pace))
-* [**IROS2024**] RPMArt: Towards Robust Perception and Manipulation for Articulated Objects ([arxiv](https://arxiv.org/abs/2403.16023)/[code](https://github.com/R-PMArt/rpmart)/[Project Page](https://r-pmart.github.io/))
-* [**ICLR2024**] SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation ([arxiv](https://arxiv.org/abs/2310.16838)/[Project Page](https://halowangqx.github.io/SparseDFF))
-* [**RA-L,IROS20252025**] Make a Donut: Language-Guided Hierarchical EMD-Space Planning for Zero-shot Deformable Object Manipulation ([arxiv](https://arxiv.org/abs/2311.02787)/[code](#)/[poster](https://qq456cvb.github.io/images/make_a_donut.pdf)/[Project Page](https://qq456cvb.github.io/projects/donut))
 * ... More publications on my [Website](https://qq456cvb.github.io/publications/)
 <!-- pub ends -->
 

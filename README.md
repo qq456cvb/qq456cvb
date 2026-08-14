@@ -15,9 +15,9 @@ I am currently a Postdoc in [Prof. Leonidas Guibas' lab](https://geometry.stanfo
 * [**CoRL2025**] ARCH: Hierarchical Hybrid Learning for Long-Horizon Contact-Rich Robotic Assembly ([arxiv](https://arxiv.org/abs/2409.16451)/[Project Page](https://long-horizon-assembly.github.io/))
 * [**ICCV2025**] AllTracker: Efficient Dense Point Tracking at High Resolution ([arxiv](https://arxiv.org/abs/2506.07310)/[code](https://github.com/aharley/alltracker)/[Project Page](https://alltracker.github.io/))
 * [**ICLR2026**] Rodrigues Network for Learning Robot Actions ([arxiv](https://arxiv.org/abs/2506.02618)/[Project Page]())
+* [**CVPR OpenSUN3D Workshop2026**] OCH3R: Object-Centric Holistic 3D Reconstruction ([arxiv](https://arxiv.org/abs/2605.13018)/[Project Page]())
 * [**ICLR2025**] Multiview Equivariance Improves 3D Correspondence Understanding with Minimal Feature Finetuning ([arxiv](https://arxiv.org/abs/2411.19458)/[code](https://github.com/qq456cvb/3DCorrEnhance)/[Project Page](https://qq456cvb.github.io/3DCorrEnhance))
 * [**NeurIPS2024**] ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process ([arxiv](https://arxiv.org/abs/2401.08140)/[Project Page](https://provnerf.github.io/))
-* [**TPAMI2024**] CPPF++: Uncertainty-Aware Sim2Real Object Pose Estimation by Vote Aggregation ([arxiv](https://arxiv.org/abs/2211.13398)/[code](https://github.com/qq456cvb/CPPF2)/[Project Page](https://qq456cvb.github.io/projects/cppf++))
 * ... More publications on my [Website](https://qq456cvb.github.io/publications/)
 <!-- pub ends -->
 
